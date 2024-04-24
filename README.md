@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashvishwakarma26&label=Profile%20views&color=0e75b6&style=flat" alt="akashvishwakarma26" /> </p>
 
-- 🌱 I’m currently learning **Blockchain, Data Science**
+- 🌱 I’m currently learning **Data Science, Blockchain**
 
 - 💬 Ask me about **Python**
 
