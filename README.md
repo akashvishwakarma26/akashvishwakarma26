@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashvishwakarma26&label=Profile%20views&color=0e75b6&style=flat" alt="akashvishwakarma26" /> </p>
 
-- 🌱 I’m currently learning **Data Science, Blockchain**
+- 🌱 I’m currently learning **FullStack Development**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Programming Languages**
 
 - 📫 How to reach me **akashvishwakarma2601@gmail.com**
 
