@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **FullStack Development**
 
-- 💬 Ask me about **Programming Languages**
+- 💬 Ask me about **Problem Solving**
 
 - 📫 How to reach me **akashvishwakarma2601@gmail.com**
 
